@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CS.MadLib/CS.MadLib.vcxproj" Id="37ad39b1-5245-4a22-abdc-33c67181acef" />
+</Solution>
